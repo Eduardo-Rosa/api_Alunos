@@ -1,0 +1,35 @@
+Alunos = [
+    {
+    "id":1,
+    "firstName":"Eduardo",
+    "lastName":"Rosa",
+    "born":"13/02/1982",
+    "gener":"masculino",
+    "phone":"118181818181",
+    "course":"engenharia de software",
+    "contactName1":"Suellen",
+    "contactName2":"Felipe",
+    },
+    {
+    "id":3,
+    "firstName":"Suellen",
+    "lastName":"Garcia",
+    "born":"30/12/1989",
+    "gener":"feminino",
+    "phone":"131111111111",
+    "course":"Eduacção Física",
+    "contactName1":"Eduardo",
+    "contactName2":"Stephanie",
+    },
+    {
+    "id":4,
+    "firstName":"Stephanie",
+    "lastName":"Garcia",
+    "born":"01/03/1998",
+    "gener":"feminino",
+    "phone":"121212121212",
+    "course":"Administração",
+    "contactName1":"Suellen",
+    "contactName2":"Felipe",
+    }
+]
